@@ -1,21 +1,18 @@
 # Google Play Store Apps EDA
 
-### About Dataset
+#### **About Author**: 
+Name: Hamza Kamelen\
+Github Profile: [Github-Hamza_Kamelen](https://github.com/hamzakamelen)\
+Linkedin Profile: [Linkedin-Hamza_Kamelen](https://linkedin.com/in/hamzakamelen)
 
+#### **About Data**
 **`Description`**:\
 This Data is taken from Kaggle DataSets - [Apple-App-Store](https://www.kaggle.com/datasets/gauthamp10/apple-appstore-apps)
+#### **Task:**
+We intend to conduct an Exploratory Data Analysis (EDA) on the given dataset. The EDA will serve as the basis for the necessary Data Wrangling activities to be carried out for the purposes of data cleaning and normalization. During the coding process, we will document our observations. Ultimately, we will produce a summary and draw conclusions from our findings
 
-**`Context`**\
-While many public datasets (on Kaggle and the like) provide Apple App Store data, there are not many counterpart datasets available for Google Play Store apps anywhere on the web. On digging deeper, I found out that iTunes App Store page deploys a nicely indexed appendix-like structure to allow for simple and easy web scraping. On the other hand, Google Play Store uses sophisticated modern-day techniques (like dynamic page load) using JQuery making scraping more challenging.
-
-**`Content`**\
-Each app (row) has values for catergory, rating, size, and more.
-
-**`Acknowledgements`**\
-This information is scraped from the Google Play Store. This app information would not be available without it.
-
-**`Inspiration`**\
-The Play Store apps data has enormous potential to drive app-making businesses to success. Actionable insights can be drawn for developers to work on and capture the Android market!
+#### **Objectives:**
+The primary aim of this project is to conduct a thorough analysis of the dataset to identify significant insights. The ultimate goal is to project and emphasize customer dynamics and demands to developers and other relevant stakeholders. This will assist in driving more business towards their upcoming applications.
 
 ## Requirements
 
